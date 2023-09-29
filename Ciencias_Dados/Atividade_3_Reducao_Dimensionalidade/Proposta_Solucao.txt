@@ -1,0 +1,11 @@
+A  árvore  de  decisão  da  Iris  com  apenas  2  atributos  selecionados  seria  mais  fácil  de 
+interpretar? Vale a (eventual) perda de informação por usar menos atributos? 
+Nesse trabalho, na parte de visualização, podem ser usadas 2 ou 3 dimensões 
+(componentes principais); como escolher a quantidade de dimensões para o gráfico? 
+ 
+Reduzir os componentes de um dataset pode possibilitar sim uma melhor visualização de 
+dados. No caso do dataset Iris, por ter 4 componentes, a escolha dos componentes pode 
+ser mais fácil. Mas usando um algoritmo de escolha de componentes pode resolver com 
+mais  facilidade  essa  situação  quando  existem  vários  componentes.  A  perda  de  dados 
+quando  se  escolhe  as  componentes  acaba  acontecendo,  porém  vale  se  atentar  para  a 
+menor perda de dados para não descaracterizar as informações que quer se obter. 

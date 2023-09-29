@@ -1,0 +1,12 @@
+respotas
+
+1-
+copo de milkshake = categoria(chocolate, morango, etc.)
+altura de um prédio = númerico (20 metros, 50 metros)
+nacionalidade = categoria(brasileira, alemã, italiana)
+modelo de carro = categoria(Fusca, Uno, Gol)
+
+2-
+O ciclo da ciência de dados é um fluxo importante que seleciona, processa, transforma e interpreta dados (sem estrutura ou contexto) para gerar informação (dados contextualizados), e assim gerar conhecimento. É a partir do conhecimento que é possível explicar fenômenos ou conceitos, inferir ou detectar padrões e assim proporcionar a tomada de uma decisão. Todo esse processo permite que dados brutos se tornem informações estruturadas e tenham significado e importância como conhecimento.
+
+

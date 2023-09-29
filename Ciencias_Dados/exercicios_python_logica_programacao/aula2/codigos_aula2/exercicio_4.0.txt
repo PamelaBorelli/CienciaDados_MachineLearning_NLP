@@ -1,0 +1,39 @@
+'''
+A trajetória balística obedece às equações de lançamento oblíquo. O projétil a ser lançado deve ser 
+posicionado formando um ângulo (q) com o solo e ser disparado com uma velocidade inicial (V0) .
+Os cálculos da trajetória na horizontal (x) e vertical (y - altura) podem ser realizados aplicando-se 
+o tempo nas equações a seguir:
+
+'''
+
+import math
+from math import *
+
+
+#entrada de dados
+v0 = 100/0.83
+theta = 55
+g=9.8
+
+
+#processamento e dados de saída
+
+(tentei de duas maneiras, não estou certa sobre o ângulo)
+# angulo = math.radians(theta)
+angulo = theta*pi/180
+
+
+velocidadeX = v0 * math.cos(angulo)
+velocidadeY = v0 * math.sin(angulo)
+
+tempo = 2 * velocidadeY / g
+print(f'Tempo de voo: {tempo}')
+
+distancia = velocidadeX * tempo
+print(f'Distancia percorrida: {distancia}')
+
+altura= (velocidadeY ** 2) / (2 * g)
+print(f'Altura máxima: {altura}')
+
+
+

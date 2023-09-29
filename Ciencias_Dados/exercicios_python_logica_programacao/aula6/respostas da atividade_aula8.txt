@@ -1,0 +1,20 @@
+1. Quais são as principais responsabilidades de um SGBD?
+Através de alguns mecanismos do CRUD o SGBD responsável por executar as consultas e devolver os dados resultantes delas ao programa de aplicação, além disso é controlado acesso ao BD e a integridade dos dados, outra responsabilidade é gerar relatórios.
+
+2. A que se refere o acrônimo ACID?
+É um acrônimo para:
+A = atomicidade => onde as transações ou executadas totalmente, ou não são executadas.
+C = consistência => devido a atomicidade é possível garantir a consistências das transações, pois novas transações criam novos estados, são atualizados, se não forem executados deve voltar a um estado válido.
+I = isolamento => uma transação em andamento não pode se sobrepor a outro, um deve ser executado para que outro possa vir em sequência.
+D = durabilidade => as informações tem que estar disponíveis e devem estar atualizadas mesmo se o sistema tiver uma falha 
+
+3. Quais as principais diferenças entre um banco de dados relacional e não relacional?
+
+Banco de dados relacionais armazenam dados estruturados organizados em tabelas que possuem relacionamentos
+Banco de dados não relacionais armazenam dados não-estruturados (textos, vídeos, músicas) e semi-estruturados (como um json, por exemplo) não tem uma estrutura padrão
+
+4. Quais as etapas para a construção de um banco de dados? Quem são os profissionais envolvidos em cada etapa?
+1º Identificação do Problema = estudo do problema e análise dos requisitos, para isso deve ser usada ferramentas para chegar até as informações relevantes apresentadas pelo cliente
+1º Modelagem conceitual = criar as entidades-relacionamentos, atributos que vem da identificação do problema apresentada pelo cliente
+3º Modelagem lógica = organiza-se quais estruturas estarão presentes no banco de dados, quais tecnologias serão usadas 
+4º Modelagem física = depois de avaliar quais os tipos de dados serão usados pode-se implementar usar uma linguagem para a modelação e montar o SGBD 

@@ -1,0 +1,135 @@
+Exercício 1
+Existe uma grande variedade de ferramentas. Das listas que encontrei procurei ler mais sobre aquelas que acredito que são mais conhecidas tentei pesquisar algumas que ainda não conhecia.
+Plataforma Tableau 
+ 
+•	Armazéns de dados
+•	Ferramentas de colaboração
+•	Visualização de dados
+•	Análise de dados preditiva
+•	Limpeza de dados
+•	Processamento de grandes volumes
+•	Descoberta de dados
+ 
+
+Microsoft Power BI
+ 
+•	Ferramentas de colaboração
+•	Visualização de dados
+•	Limpeza de dados
+•	Processamento de grandes volumes
+•	Descoberta de dados
+ 
+
+Oracle Database
+•	Limpeza de dados
+•	Processamento de grandes volumes
+•	Descobertas de dados
+
+Amazon EC2
+ 
+•	Armazéns de dados
+•	Ferramentas de colaboração
+•	Visualização de dados
+•	Análise de dados preditiva
+ 
+
+Anaconda 
+•	linguagens Python e R para computação científica.
+•	Usada em diferentes sistemas operacionais (Windows, Linux e MacOS).
+•	Pacotes de projetos de Big Data utilizados em Ciência de Dados e Machine Learning .
+•	Interface Web que permite o uso de aplicações nativas como Jupyter Lab.
+Splunk 
+•	Coleta e pesquisa de dados
+•	Monitoramento e alertas em tempo real
+•	Análise de grandes volumes
+•	Geração de relatórios
+
+
+Spark 
+•	Framework para computação distribuída: processamento de dados em paralelo.
+•	Tolerância a falhas.
+•	Módulo com integração com a linguagem SQL.
+•	Streaming de Dados.
+•	Compatível com as linguagens Python, Java e Scala.
+Fonte: Ferramentas de Big Data - Preços, ferramentas e avaliações no Capterra Brasil - 2023
+Fonte: 5 Ferramentas Big Data fundamentais - Blog de TI (geekhunter.com.br)
+
+
+***Fiz essa pequena correção. quando li ferramentas para o BIGDATA pensei em tecnologias, mas na aula de hoje (31/03) acredito que pensei errado, então estou colocando aqui uma correção:
+
+ALGUMAS FERRAMENTAS BÁSICAS:
+
+• ESTATÍSTICA DESCRITIVA
+• MINERAÇÃO DE DADOS
+• ESTATÍSTICA PREDITIVA
+• TÉCNICAS DE ANÁLISE PRESCRITIVA (TOMADA DE DECISÕES EM FUNÇÃO DE CENÁRIOS)
+• SIMULADORES DE CENÁRIOS
+• INTELIGÊNCIAS ARTIFICIAL
+
+acredito que deveriam ser essas as ferramentas de uso para um profissional em Ciências de Dados
+
+
+
+
+Exercício 2
+1: Volume
+Essa característica menciona o grande volume de dados que são gerados atualmente .
+2: Velocidade
+O grande volume, os dados são gerados em alta velocidade e isso tem que ser levado em consideração
+3: Variedade
+Os dados estão caracterizados como: estruturadas (em tabelas), semiestruturadas (tabelas e textos) e não estruturadas (textos). O tipo de dado mais recebido pelo BIGDATA é o não-estruturado, que tem origem de textos de redes sociais, máquinas e sensores de informações, mídias como músicas, imagens, vídeos, etc. 
+4: Variabilidade
+Por terem origem de várias fontes e serem produzidos em alta velocidade, os dados podem ser bastante heterogêneos, por isso é necessário reconhecer e gerenciar anomalias e outliers 
+5: Veracidade
+Veracidade está relacionada a proveniência ou confiabilidade da fonte, o seu contexto, e o quão significante esse dado é. É necessária uma busca confiável, e as perguntas certas para minimiza os riscos da análise e potencializar as decisões tomadas por uma empresa.
+6: Validade
+A validade de dados também se preocupa com o quanto a veracidade dos dados. Para validar um dado existe o trabalho de limpar os dados antes que este possa ser capaz de servir para uma análise. 
+7: Vulnerabilidade
+Novas tecnologias trazem novas perspectivas quanto a segurança. A violação de dados sempre foi um grande problema. Pode gerar para pessoas comuns constrangimentos e perdas financeiras com a divulgação de dados pessoais, e perdas bilionárias às empresas envolvidas. 
+
+8: Volatilidade
+A volatilidade se tempo que um dado demora para se tornar irrelevante, por quanto tempo ele deve ser armazenado. Pode até ser que antes as informações eram guardadas indefinidamente, e assim como antes, não havia o grande volume de informação sendo produzida como hoje. Mas a velocidade e o volume na qual são produzidos agora é necessário a elaboração de novos padrões para garantir a acurácia, disponibilidade e rapidez quando uma informação é requerida. Além disso uma grande quantidade de dados pode gerar um grande custo de armazenamento.
+9: Visibilidade
+O grande volume de dados, heterogêneos e de variadas fontes, torna mais complexa sua análise e a compreensão, dessa maneira é necessário ferramentas que vão além dos gráficos tradicionais para visualização, que seja capaz de entregar resultados rápidos, assertivos, e que otimizem o uso de memória. Essas ferramentas incluem data clustering ou tree maps, diagramas de redes circulares, coordenadas paralelas, etc.
+10: Valor
+Todos os “V’s” usados até aqui servem para garantir que os dados coletados, selecionados, limpados e armazenados gerem valor (conhecimento) que possa ser usado para tomadas de decisões mais eficientes e assertivas, que otimizem tempo e economize dinheiro, melhorando o desempenho de uma máquina ou empresa. 
+Fonte: The 10 Vs of Big Data | Transforming Data with Intelligence (tdwi.org)
+
+Exercício 3
+A habilidade (Hard Skills) necessária depende da função exercida pelo profissional, mas de maneira geral algumas habilidades são fundamentais, principalmente aquelas que vão além do conhecimento técnico. Os Soft Skills por exemplo são ferramentas comportamentais que são essenciais para qualquer profissão. Abaixo coloquei algumas habilidades técnicas e comportamentais dentro da Ciência de Dados
+•	Conhecimento em linguagens de programação de análise de dados (R, Python e SQL)
+•	Comunicação
+•	Visualização de Dados
+•	Data Mining
+•	Estatística
+•	Infraestrutura de Big Data 
+•	Machine Learning
+•	Engenharia de Software
+•	Álgebra Linear
+•	Foco em solução de problemas
+•	Pensamento crítico
+•	Solução proativa de problemas
+•	Curiosidade intelectual
+•	Senso comercial
+Fonte: As 10 Habilidades de um Cientista de Dados — Ciência e Dados (cienciaedados.com)
+Fonte: Dez habilidades técnicas e interpessoais necessárias para todo cientista de dados (tableau.com)
+
+Exercício 4
+Todos os setores que necessitam lidar com alto volume de dados e informação pode se beneficiar com o Big Data. Mas de maneira geral alguns setores que podem se beneficiar são:
+
+Setor financeiro:
+Necessitam que informações e decisões sejam tomadas com mais rapidez para entregar aos clientes mais facilidade na aprovação de crédito, flexibilização de taxas, assim como precisam de acesso a análise de mercado mais eficazes para previsão de inadimplência e detecção de fraudes. E como essa área pode sofrer mudanças bruscas e repentinas, identificar novos nichos de mercado e fazer análises de riscos são fundamentais.
+
+Varejo:
+Esse setor recebe grande volume de dados de seus consumidores, e muitas vezes essas informações chegam de diferentes canais. Entender o comportamento e hábito de compra dos clientes pode ajudar no entendimento de quem é o público alvo e direcionar estratégicas de vendas. Para isso existe a coleta de informações como histórico de transações, ficha cadastral, jornada de compra na loja física ou virtual, dados de publicidade, dados geográficos, demográficos e reclamações de clientes 
+
+Setor Público ou Privado:
+Educação:  informações do histórico escolar, das frequências, dados geográficos e demográficos podem ajudar na classificação de perfis de aprendizado para personalização da educação e na análise preditiva de evasão escolar.
+Saúde: informações de prontuário médico, dados geográficos e demográficos, sequenciamento de genomas para medicina de precisão e diagnóstico preditivo (previsão), elaboração de mapa da saúde baseada em dados históricos. Essas informações podem ser coletadas através do monitoramento da população em redes sociais e em pesquisas de campo. Mas do que nunca pode ajudar a antecipar a possibilidade de uma epidemia, e ajudar na prevenção do número de casos de doenças.
+Segurança: dados como históricos de visitação, ficha cadastral, textos de notícias e de conteúdo da internet podem ser utilizados para detecção de padrões de comportamentos físico ou digital que ofereçam algum tipo de risco.
+
+Gestão Pública: ajudando os gestores públicos a organizarem todo volume de informação e traçar planos de ação estratégica nas decisões de aplicação do orçamento, na priorização de programas, nos investimentos em infraestrutura e prevenção a desastres naturais e epidemias.
+Cidades Inteligentes: Além da Internet das Coisas, o Big Data pode ajudar a melhorar a qualidade de vida nas cidades através de sistemas de monitoramento de consumo de energia  e no controle do trânsito e no monitoramento da poluição.
+Agronegócio:
+Sendo o Brasil um dos maiores produtores, aumentar a produção sem aumentar a área cultivada, reduzir custos e melhorar a eficiência dos recursos naturais é o desafio do agronegócio na atualidade.
+Fonte: https://gunthercris.blogspot.com/2017/01/aplicacoes-do-big-data-conheca-16.html

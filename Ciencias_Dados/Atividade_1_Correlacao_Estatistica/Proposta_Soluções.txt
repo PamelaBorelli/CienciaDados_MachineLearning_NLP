@@ -1,0 +1,14 @@
+
+Para os dados espúrios nos dois arquivos Correlação e Estatística, foi feito 
+cálculo da média através dos antecessores e sucessores do valor que 
+apresentava ser fora da faixa estipulada para cada de campo de análise 
+(batimento, pressão e temperatura), sendo assim, deixando-os normalizados 
+para utilizá-los posteriormente nos tópicos dos seguintes exercícios. 
+A partir deste levantamento foi possível utilizar os valores apresentados para 
+realizar a correlação entre batimento/pressão e batimento/temperatura, 
+obtendo assim o que está acima do batimento/temperatura média, ou mediana 
+e para batimento/pressão. 
+Para os dados estatísticos, em cada pacote dividido, foi feita uma relação entre 
+batimento, temperatura e pressão, o que fosse constatado que estava 
+apresentando certa anormalidade, era identificado o pacote que continha dados 
+acima do que ideal.

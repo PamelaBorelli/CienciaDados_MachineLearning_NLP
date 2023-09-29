@@ -1,0 +1,9 @@
+Atividade utilizando a plataforma PowerBI.
+
+Utilizando a ferramenta Power BI construa um dashboard sobre a base de dados de índice de felicidade dos anos de 2018 e 2019. 
+
+Os requisitos para essa tarefa são:
+
+1- O título do dashboard deverá ser o seu nome.
+2- O dashboard deve possuir pelo menos quatro gráficos diferentes.
+3- Todos os gráficos devem possuir títulos.

@@ -1,0 +1,7 @@
+A árvore de decisão permite encontrar filtros que dividem as amostras em relação às classes, idealmente isolando classes
+Esse filtro pode permitir encontrar características simples que descrevem uma grande quantidade de amostras de uma mesma classe
+Também podem evidenciar uma região de confusão
+Nesse trabalho, ao menos um desses filtros deve ser selecionado e visualizado com as ferramentas discutidas ao longo do curso
+Mais de um gráfico pode ser aplicado
+Escolham o gráfico que mais se adequar ao objetivo da análise, ou seja, evidenciar alguma característica
+Os gráficos devem auxiliar a discussão e entendimento sobre esse conjunto de amostras selecionado
