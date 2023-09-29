@@ -1,0 +1,51 @@
+1. Exibir a Matriz de Correlação entre as variáveis
+
+2. Atualizar os nomes das seguintes colunas:
+
+2.1. FUELCONSUMPTION_CITY = FUELCONSCITY
+2.2. FUELCONSUMPTION_HWY = FUELCONSHWY
+2.3. FUELCONSUMPTION_COMB = FUELCONSCOMB
+2.4. FUELCONSUMPTION_COMB_MPG = FUELCONSCOMBMPG
+
+3. Criar um novo dataframe com as seguintes colunas:
+'ENGINESIZE','CYLINDERS','FUELCONSCOMB','CO2EMISSIONS'
+
+4. Fazer as seguintes análises
+
+4.1. Separe os dados de treino e teste
+
+4.2. Import sklearn library
+
+4.3. Crie a variável com o modelo de Regressão Linear
+
+4.4. Separe os dados de treino e teste
+
+4.5. Separe as Features de Treino e Teste
+
+4.6. Rode o Modelo
+
+4.7. Defina os valores para os coeficientes Theta 0: Intercepto e Theta 1: Coeficiente
+
+4.7. Plot o Gráfico de Regressão Linear com a Reta Ajustada
+
+4.8. Encontre o R2-Score
+
+ 
+
+5. Encontrar o Melhor ajuste (R2-Score) entre as combinações de variáveis abaixo
+
+5.1.  FUELCONSCOMB & CO2EMISSIONS
+
+5.2. CYLINDERS & CO2EMISSIONS
+
+5.3. ENGINESIZE & CO2EMISSIONS
+
+ 
+
+6. Tentar realizar uma Regressão Linear Múltipla. Use as três variáveis
+
+ENGINESIZE
+
+CYLINDERS
+
+FUELCONSCOMB
