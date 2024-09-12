@@ -1,4 +1,4 @@
-# Treinamento_CD_ML_IA_PUCCampinas
+# Treinamento_CD_ML_IA
 
  Programa de Capacitação com Residência Tecnológica desenvolvido por meio de uma parceria entre PUC-Campinas e CPQD
 
